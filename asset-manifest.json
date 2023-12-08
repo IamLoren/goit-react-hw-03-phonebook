@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-03-phonebook/static/css/main.778d3331.css",
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.b900a48d.js",
+    "static/media/eberhard-grossgasteiger-XAxEp-NKBiQ-unsplash.jpg": "/goit-react-hw-03-phonebook/static/media/eberhard-grossgasteiger-XAxEp-NKBiQ-unsplash.8abb3cfef54dd757e6a7.jpg",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "main.778d3331.css.map": "/goit-react-hw-03-phonebook/static/css/main.778d3331.css.map",
+    "main.b900a48d.js.map": "/goit-react-hw-03-phonebook/static/js/main.b900a48d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778d3331.css",
+    "static/js/main.b900a48d.js"
+  ]
+}
